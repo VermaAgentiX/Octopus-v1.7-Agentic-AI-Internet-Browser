@@ -8,6 +8,7 @@ user can gather information from multiple platforms in realtime parallely. it au
 1. Local LLm model used for developmnt - Qwen 3:8B 5.2GB,
 2. Online Model for productions - Google Gemini Api (Google AI Studio)
 
+### Watch the demo v1.0 
 [![Watch the demo v1.0 ](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtu.be/nlGrm84790Q?si=8hH3HKk0wAMNsDwk)
 
 ### 1. Firist idea Concept
